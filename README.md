@@ -17,11 +17,24 @@ Desenvolvimento de uma *Landing Page* de alta performance para o engenheiro de s
 * **Galeria de Competências**: Exibição visual de *Tech Stack* (AWS, Software Engineering, Figma).
 * **Integração de Contato**: Links diretos para LinkedIn, GitHub e E-mail profissional.
 
-## Valor de Mercado do Projeto
-Este projeto foi avaliado com base no impacto na carreira do cliente:
-* **Desenvolvimento da Página**: R$ 800,00
-* **Taxa de Publicação (Opcional)**: R$ 150,00 (Configuração de domínio e hospedagem).
-* **Prazo de Entrega**: 3 a 5 dias úteis.
+## Opções de Investimento e Tabelas de Preços
+
+Este projeto serve como referência para orçamentos baseados na complexidade e no valor gerado para o cliente:
+
+### Opção 1: Essencial (R$ 800,00)
+Focado em profissionais que precisam de uma presença digital rápida e funcional.
+* **Inclui**: Desenvolvimento da Landing Page, design responsivo e integração de links sociais.
+* **Perfil**: Ideal para portfólios de início de carreira.
+
+### Opção 2: Estratégico / Premium (R$ 1.500,00)
+Focado em profissionais de alta senioridade ou em transição de carreira (como o caso do Rafhael Lopes).
+* **Inclui**: Tudo da opção anterior + **Curadoria de Conteúdo Técnica**.
+* **Diferencial**: Organização de publicações científicas, destaque estratégico para múltiplas certificações AWS (Developer Associate, AI Practitioner)e consultoria de *personal branding* para transição de carreira (ex: Biomédicas para Software Engineering).
+* **Perfil**: Ideal para especialistas que visam vagas de alta remuneração.
+
+---
+**Taxa de Publicação (Opcional)**: R$ 150,00 (Configuração de domínio próprio e Cloud Hosting).
+**Prazo médio**: 3 a 5 dias úteis.
 
 ## Por que este portfólio vale o investimento?
 Para um profissional como o **Rafhael Lopes**, que possui certificações de alto nível, o portfólio funciona como uma ferramenta de venda pessoal. Ele reduz a fricção para o recrutador e aumenta significativamente as chances de contratação em vagas de alta remuneração.
