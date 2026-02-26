@@ -1,24 +1,27 @@
-# Stack Tecnológica
+# Case de Desenvolvimento: Portfólio Profissional Tech
 
-- HTML5 Semântico: Utilizado para garantir a acessibilidade e uma estrutura de SEO sólida, permitindo que recrutadores e robôs de busca identifiquem facilmente o conteúdo.
+> **Status do Projeto:** Entregue e Otimizado.
 
-- Tailwind CSS: Framework utilitário de CSS usado para criar um design responsivo e moderno sem a necessidade de arquivos CSS pesados, mantendo o carregamento do site ultra-rápido.
+## Visão Geral
+[cite_start]Desenvolvimento de uma *Landing Page* de alta performance para o engenheiro de software **Rafhael Lopes**[cite: 21, 22]. [cite_start]O foco foi transformar um currículo técnico denso em uma vitrine visual de autoridade para as áreas de Cloud e Cibersegurança[cite: 22, 25, 26].
 
-- JavaScript (ES6+): Aplicado para controlar comportamentos dinâmicos, como o scroll suave entre seções e as animações de entrada (fade-in).
+## Diferenciais Técnicos
+* **Arquitetura Moderna**: Construído com HTML5 semântico e Tailwind CSS para garantir um carregamento instantâneo.
+* **UI/UX Estratégico**: Design em tons de roxo profundo e neon, alinhado à estética de tecnologia de ponta (Cloud/Cyber).
+* [cite_start]**Seções de Conversão**: Destaque estratégico para certificações críticas como **AWS Certified Developer Associate**, **AI Practitioner** e **FinOps**[cite: 14, 15, 17].
+* **Responsividade Total**: Experiência otimizada para Desktop, Tablets e Mobile.
 
-- Google Fonts (Inter): Integração da tipografia "Inter" para garantir uma leitura clara e profissional, padrão em interfaces modernas de software.
-  
+## O que foi entregue (Escopo)
+* [cite_start]**Curadoria de Conteúdo**: Adaptação técnica do currículo para uma linguagem de portfólio[cite: 24, 25, 26].
+* [cite_start]**Seção de Experiência**: Linha do tempo profissional organizada por relevância, destacando a transição para Cloud[cite: 25, 26, 41].
+* [cite_start]**Galeria de Competências**: Exibição visual de *Tech Stack* (AWS, Python, Figma)[cite: 6, 22, 23].
+* [cite_start]**Integração de Contato**: Links diretos para LinkedIn, GitHub e E-mail profissional[cite: 1, 3, 5].
 
-## Conceitos de Design Aplicados
+## Valor de Mercado do Projeto
+Este projeto foi avaliado com base no impacto na carreira do cliente:
+* **Desenvolvimento da Página**: R$ 800,00
+* **Taxa de Publicação (Opcional)**: R$ 150,00 (Configuração de domínio e hospedagem).
+* **Prazo de Entrega**: 3 a 5 dias úteis.
 
-- UI/UX focado em Tech: O uso de tons de roxo profundo e gradientes foi escolhido para alinhar a identidade visual do Rafhael com os setores de Cloud Computing e Inteligência Artificial.
-
-- Design Responsivo: O layout foi projetado para ser "Mobile-First", garantindo que o portfólio seja perfeitamente legível tanto em desktops quanto em dispositivos móveis.
-
-- Micro-interações: Implementação de efeitos de hover e glow em botões e tags de habilidades para melhorar a experiência do usuário.
-
-## Diferenciais do Projeto
-
-- Foco em Conversão: O rodapé foi desenhado com um CTA (Call to Action) claro para o e-mail e LinkedIn, facilitando o contato direto de recrutadores.
-
-- Seção de Certificações Estruturada: Organização estratégica das conquistas da AWS e FinOps para destacar a autoridade técnica do profissional logo no primeiro contato visual.
+## Por que este portfólio vale o investimento?
+[cite_start]Para um profissional como o **Rafhael Lopes**, que possui certificações de alto nível e publicações científicas[cite: 14, 15, 19, 20], o portfólio funciona como uma ferramenta de venda pessoal. [cite_start]Ele reduz a fricção para o recrutador e aumenta significativamente as chances de contratação em vagas de alta remuneração[cite: 29, 30].
